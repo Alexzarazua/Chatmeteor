@@ -1,6 +1,11 @@
 {
-  "name": "twip-chat",
-  "private": false,
+  "name": "meteoris-chat",
+  "private": true,
   "scripts": {
     "start": "meteor run"
   },
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "meteor-node-stubs": "~0.2.4"
+  }
+}

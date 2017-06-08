@@ -1,0 +1,6 @@
+{
+  "name": "twip-chat",
+  "private": false,
+  "scripts": {
+    "start": "meteor run"
+  },
