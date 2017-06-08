@@ -1,6 +1,6 @@
 {
   "name": "meteoris-chat",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "meteor run"
   },
